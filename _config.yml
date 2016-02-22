@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#A8B0D0'
+    - '#304890'
+    - '#5868A0'
+    - '#204090'
+    - '#C8D0E8'
+  brandStrength: 0.671875
+  lightness: 0.665296
+  rhythmicContrast: 0.256578
+  saturation: 0.30921
+cta: {}
+layout_spectrum: 0.592762
+name: nhlpa
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.82737085157798
